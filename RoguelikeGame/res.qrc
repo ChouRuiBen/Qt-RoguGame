@@ -1,0 +1,47 @@
+<RCC>
+    <qresource prefix="/">
+        <file>buttons/back.png</file>
+        <file>buttons/cheat.png</file>
+        <file>buttons/help.png</file>
+        <file>buttons/shop.png</file>
+        <file>buttons/start.png</file>
+        <file>characters/bad_wizard_wool.png</file>
+        <file>characters/berserker_axe1.png</file>
+        <file>characters/berserker_axe2.png</file>
+        <file>characters/gaint_axe.png</file>
+        <file>characters/gaint_wool.png</file>
+        <file>characters/ghost.png</file>
+        <file>characters/knight_sword1.png</file>
+        <file>characters/knight_sword2.png</file>
+        <file>characters/wizard_wool1.png</file>
+        <file>characters/wizard_wool2.png</file>
+        <file>scenes/castle.png</file>
+        <file>scenes/map.png</file>
+        <file>scenes/smile.png</file>
+        <file>scenes/tomb.png</file>
+        <file>weapons/axe_2.png</file>
+        <file>weapons/bad_wizard_ball.png</file>
+        <file>weapons/coin.png</file>
+        <file>weapons/EPadd.png</file>
+        <file>weapons/EPadd_.png</file>
+        <file>weapons/giant_ball.png</file>
+        <file>weapons/good_wizard_ball_1.png</file>
+        <file>weapons/good_wizard_ball_2.png</file>
+        <file>weapons/heart.png</file>
+        <file>weapons/heart_.png</file>
+        <file>weapons/HPadd.png</file>
+        <file>weapons/HPadd_.png</file>
+        <file>weapons/money.png</file>
+        <file>weapons/money_.png</file>
+        <file>weapons/pawn_up.png</file>
+        <file>weapons/power.png</file>
+        <file>weapons/power_.png</file>
+        <file>weapons/sword_2.png</file>
+        <file>weapons/eve.png</file>
+        <file>buttons/choose.jpg</file>
+        <file>music.mp3</file>
+        <file>buttons/music.png</file>
+        <file>weapons/EP.png</file>
+        <file>weapons/HP.png</file>
+    </qresource>
+</RCC>
